@@ -9,8 +9,8 @@ git money (steady income)
 git bitches (quality not quantity)
 git some (steady, not too many rando hoes)
 git a girlfriend (marriage material)
-git a job
-git a real job
+git a job (hybrid or remote)
+git a real job (don't be too picky)
 git on a schedule 
 git up early
 git stronger
