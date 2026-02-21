@@ -17,3 +17,4 @@ git stronger
 git focused
 git more books
 git mentally tough 
+git a new car
