@@ -23,7 +23,7 @@ git new friends (shared interests)
 git new hobbies (rockclimbing, trivia, fight club)
 git really good a something new (climbing?)
 git ready for the future (real preparedness) 
-have fun
-be safe
+have fun 
+be safe (always)
 believe in yourself
 god help us (amen)
