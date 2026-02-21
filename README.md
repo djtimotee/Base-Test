@@ -19,7 +19,7 @@ git more books (make a list)
 git mentally tough (meditation)
 git a new car (hybrid or electric?)
 git a new place (set a budget)
-git new friends
+git new friends (via shared interests)
 git new hobbies 
 git really good a something new
 git ready for the future 
