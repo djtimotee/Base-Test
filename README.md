@@ -13,7 +13,7 @@ git a job (hybrid or remote)
 git a real job (don't be too picky)
 git on a schedule (follow it)
 git up early (like 8am)
-git stronger
+git stronger (lift at least 3 days a week)
 git focused
 git more books
 git mentally tough 
