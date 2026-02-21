@@ -17,7 +17,7 @@ git stronger (lift at least 3 days a week)
 git focused (no background screens)
 git more books (make a list)
 git mentally tough (meditation)
-git a new car
+git a new car (hybrid or electric?)
 git a new place
 git new friends
 git new hobbies 
