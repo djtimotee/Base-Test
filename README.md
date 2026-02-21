@@ -8,7 +8,7 @@ git push -u origin main
 git money (steady income)
 git bitches (quality not quantity)
 git some (steady, not too many rando hoes)
-git a girlfriend (marriage material)
+git a girlfriend (marriage material if you can find it)
 git a job (in-person, hybrid or remote)
 git a real job (don't be too picky, cowboy up)
 git on a schedule (follow it, no bs)
