@@ -20,7 +20,7 @@ git mentally tough (meditation)
 git a new car (fuel, hybrid or electric?)
 git a new place (set a budget)
 git new friends (shared interests)
-git new hobbies (rockclimbing, trivia)
+git new hobbies (rockclimbing, trivia, fight club)
 git really good a something new (climbing?)
 git ready for the future (real preparedness) 
 have fun
