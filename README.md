@@ -15,3 +15,4 @@ git on a schedule
 git up early
 git stronger
 git focused
+git more books
