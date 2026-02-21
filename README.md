@@ -14,3 +14,4 @@ git a real job
 git on a schedule 
 git up early
 git stronger
+git focused
