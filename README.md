@@ -16,3 +16,4 @@ git up early
 git stronger
 git focused
 git more books
+git mentally tough 
