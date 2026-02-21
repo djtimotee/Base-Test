@@ -25,4 +25,5 @@ git really good a something new (climbing?)
 git ready for the future (real preparedness) 
 have fun
 be safe
+believe in yourself
 god help us (amen)
