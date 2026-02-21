@@ -11,7 +11,7 @@ git some (steady, not too many rando hoes)
 git a girlfriend (marriage material)
 git a job (hybrid or remote)
 git a real job (don't be too picky)
-git on a schedule 
+git on a schedule (follow it)
 git up early
 git stronger
 git focused
