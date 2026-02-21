@@ -22,5 +22,5 @@ git a new place (set a budget)
 git new friends (via shared interests)
 git new hobbies (rockclimbing)
 git really good a something new (climbing?)
-git ready for the future 
+git ready for the future (real preparedness) 
 god help us
