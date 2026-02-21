@@ -12,7 +12,7 @@ git a girlfriend (marriage material)
 git a job (hybrid or remote)
 git a real job (don't be too picky)
 git on a schedule (follow it)
-git up early
+git up early (like 8am)
 git stronger
 git focused
 git more books
