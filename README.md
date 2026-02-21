@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/djtimotee/Base-Test.git
 git push -u origin main
 git money (steady income)
-git crypto 
+git crypto (bluechip tokens)
 git land
 git bitches (quality not quantity)
 git some (steady, not too many rando hoes)
