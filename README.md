@@ -7,7 +7,7 @@ git remote add origin https://github.com/djtimotee/Base-Test.git
 git push -u origin main
 git money (steady income)
 git crypto (bluechip tokens: btc, eth, sol & bluechip nfts: mad lads, pudgy penguins, claynosaurz, degods)
-git land
+git land (wherever 
 git bitches (quality not quantity)
 git some (steady, not too many rando hoes)
 git a girlfriend (marriage material if you can find it)
