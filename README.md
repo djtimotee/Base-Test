@@ -15,7 +15,7 @@ git on a schedule (follow it)
 git up early (like 8am)
 git stronger (lift at least 3 days a week)
 git focused (no background screens)
-git more books
+git more books (make a list)
 git mentally tough 
 git a new car
 git a new place
