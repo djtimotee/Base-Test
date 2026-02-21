@@ -23,4 +23,5 @@ git new friends (via shared interests)
 git new hobbies (rockclimbing)
 git really good a something new (climbing?)
 git ready for the future (real preparedness) 
+have fun
 god help us (amen)
