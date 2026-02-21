@@ -24,4 +24,5 @@ git new hobbies (rockclimbing)
 git really good a something new (climbing?)
 git ready for the future (real preparedness) 
 have fun
+be safe
 god help us (amen)
