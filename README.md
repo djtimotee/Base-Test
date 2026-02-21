@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/djtimotee/Base-Test.git
 git push -u origin main
 git money (steady income)
-git bitches
+git bitches (quality not quantity)
 git some
 git a girlfriend
 git a job
