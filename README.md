@@ -22,7 +22,7 @@ git a new place (set a budget or shake up with a chick)
 git new friends (shared interests)
 git new hobbies (rockclimbing, trivia, fight club)
 git really good a something new (climbing?)
-git ready for the future (real preparedness) 
+git ready for the future (real preparedness, emergency kits) 
 have fun 
 be safe (always)
 believe in yourself
