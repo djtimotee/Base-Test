@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/djtimotee/Base-Test.git
 git push -u origin main
 git money 
+git bitches
