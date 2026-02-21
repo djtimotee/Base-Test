@@ -16,7 +16,7 @@ git up early (like 8am)
 git stronger (lift at least 3 days a week)
 git focused (no background screens)
 git more books (make a list)
-git mentally tough 
+git mentally tough (meditation)
 git a new car
 git a new place
 git new friends
