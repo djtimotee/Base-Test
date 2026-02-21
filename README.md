@@ -24,6 +24,7 @@ git new hobbies (rockclimbing, trivia, fight club)
 git really good a something new (climbing?)
 git ready for the future (real preparedness, emergency kits) 
 have fun 
+be confident
 be safe (always)
 believe in yourself
 god help us (amen)
