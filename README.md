@@ -21,5 +21,5 @@ git a new car (hybrid or electric?)
 git a new place (set a budget)
 git new friends (via shared interests)
 git new hobbies (rockclimbing)
-git really good a something new
+git really good a something new (climbing?)
 git ready for the future 
